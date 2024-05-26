@@ -47,7 +47,7 @@
 
 @media (min-width: 376px) { /* DESKTOP */
     body {
-        padding: 40vh 4vw;
+        padding: 24vh 4vw;
 
         main {
             display: flex;
